@@ -5,7 +5,7 @@
 #main {
   @include clearfix;
   margin-inline: auto;
-  padding-inline: 1em;
+  padding-inline: 2em;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   max-width: 100%;
@@ -44,6 +44,8 @@ body {
     width: calc(100% - #{$right-sidebar-width});
     padding-inline-end: $right-sidebar-width;
   }
+
+  margin-inline: 2em; 
 
   .page__inner-wrap {
     float: inline-start;
