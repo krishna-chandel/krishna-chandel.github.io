@@ -27,12 +27,12 @@ url                      : "https://krishna-chandel.github.io"# the base hostnam
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "krishna-chandel/krishna-chandel.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "https://media.licdn.com/dms/image/v2/D5603AQEq83pTnJPwkA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1692371293667?e=1737590400&v=beta&t=nh3TsQUPxf6R0WPu6xMalzyzmgZh1KXzRVS6lp4up7w"# path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
-enable_copy_code_button  : # true, false (default)
-copyright                : # "copyright" name, defaults to site.title
+enable_copy_code_button  : true # true, false (default)
+copyright                : Krishna Chandel # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -96,6 +96,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
+linkedin:
+  username               : krishnachandel
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -116,14 +118,18 @@ analytics:
 author:
   name             : "Krishna Chandel"
   avatar           : "https://media.licdn.com/dms/image/v2/D5603AQEq83pTnJPwkA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1692371293667?e=1737590400&v=beta&t=nh3TsQUPxf6R0WPu6xMalzyzmgZh1KXzRVS6lp4up7w"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hey, I'm Krishna!
-Student Intern at Nokia, part-time tech explorer, full-time Linux enthusiast, and aspiring guitar hero (when I am not debugging code). Always on the lookout for the next big thing in tech — and the next playlist to jam out to. Let us code, create, and maybe even rock out a little along the way! ;) "
+  bio              :
+  "Hey, I'm Krishna! \n
+  Student Intern at Nokia, part-time tech explorer, full-time Linux enthusiast, and aspiring guitar hero (when I am not debugging code).\n 
+  Always on the lookout for the next big thing in tech — and the next playlist to jam out to. \n
+  Let us code, create, and maybe even rock out a little along the way! ;)\n"
+
   location         : "Chennai, India"
   email            :  "krishna-chandel@outlook.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:krishna-chandel@outlook.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/krishnachandel/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://krishna-chandel.github.io/"
