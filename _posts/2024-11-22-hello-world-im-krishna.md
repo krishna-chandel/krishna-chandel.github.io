@@ -5,7 +5,6 @@ date: 2024-11-22 10:00:00 +0530
 categories: introduction
 tags: [student, intern, tech, Linux, music, VIT]
 ---
-# Hello, World! I’m Krishna!
 
 Hey, I’m **Krishna**! 👋 I’m currently a **Student Intern** at **Nokia**, where I’m diving into the world of software development and tech. When I'm not coding, I’m a part-time **tech explorer** and a **full-time Linux enthusiast**. You’ll often find me tinkering with my Linux system or running code through the terminal.
 
