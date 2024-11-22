@@ -118,12 +118,7 @@ analytics:
 author:
   name             : "Krishna Chandel"
   avatar           : "https://media.licdn.com/dms/image/v2/D5603AQEq83pTnJPwkA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1692371293667?e=1737590400&v=beta&t=nh3TsQUPxf6R0WPu6xMalzyzmgZh1KXzRVS6lp4up7w"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              :
-  "Hey, I'm Krishna! \n
-  Student Intern at Nokia, part-time tech explorer, full-time Linux enthusiast, and aspiring guitar hero (when I am not debugging code).\n 
-  Always on the lookout for the next big thing in tech — and the next playlist to jam out to. \n
-  Let us code, create, and maybe even rock out a little along the way! ;)\n"
-
+  bio              : "Hey, I'm Krishna!\nStudent Intern at Nokia, part-time tech explorer, full-time Linux enthusiast, and aspiring guitar hero (when I am not debugging code).\nAlways on the lookout for the next big thing in tech — and the next playlist to jam out to.\nLet us code, create, and maybe even rock out a little along the way! ;)\n"
   location         : "Chennai, India"
   email            :  "krishna-chandel@outlook.com"
   links:
